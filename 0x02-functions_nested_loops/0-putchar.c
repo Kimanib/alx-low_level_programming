@@ -3,7 +3,7 @@
 /**
  * main -entry point
  *
- * Return always has to be 0
+ * Return: 0
 */
 
 int main(void)
