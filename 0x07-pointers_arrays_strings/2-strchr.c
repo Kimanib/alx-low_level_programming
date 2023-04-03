@@ -1,7 +1,8 @@
 #include "main.h"
 
-/** _strchr -locates a charracter in a string
- * @s is a string
+/**
+ * _strchr -locates a charracter in a string
+ * @s : is a string
  * @c : is a character
  * Return: pointer of c in s
  */
