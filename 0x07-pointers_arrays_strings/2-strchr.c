@@ -1,9 +1,9 @@
 #include "main.h"
 
-/** _strchr -locates a charracter in a string 
+/** _strchr -locates a charracter in a string
  * @s is a string
  * @c : is a character
- * Return: pointer of c in s 
+ * Return: pointer of c in s
  */
 
 char *_strchr(char *s, char c)
