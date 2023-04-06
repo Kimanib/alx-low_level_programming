@@ -4,7 +4,7 @@
  *_pow_recursion - returns the value ofx to exponential y
  * @x : integer
  * @y : integer
- * Return : value of x exponential y
+ * Return: value of x exponential y
  */
 
 int _pow_recursion(int x, int y)
